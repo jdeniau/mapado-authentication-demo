@@ -4,7 +4,7 @@
 Clone the repository:
 
 ```
-git close git@github.com:jdeniau/mapado-authentication-demo
+git clone git@github.com:jdeniau/mapado-authentication-demo
 cd mapado-authentication-demo
 ```
 
